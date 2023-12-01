@@ -315,7 +315,7 @@ def display_stats():
 
 
 def exit():
-    print('Goodbye and thank you for visiting!!!')
+    print('Goodbye!!!')
 
 # ====login section=====
 
