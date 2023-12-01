@@ -57,7 +57,10 @@
 
 ### Built With
 
-Python <img width="580" alt="image" src="https://github.com/alaird4/Task_manager/assets/116030750/78a54049-42ed-4e5c-806f-4c9dd65b9879"
+Python 
+
+![image](https://github.com/alaird4/Task_manager/assets/116030750/10b1064d-6be5-466c-a954-d57074d6a593)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,12 +93,15 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    https://www.python.org/downloads/ 
    ```
-3. pip install python 
+3. 
+   ```sh
+   pip install python
    ```
+   ```sh
+ 4.  More information here: https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/ 
    ```
-4. More information here: https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/ 
-   ```
-
+   
+   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
