@@ -14,7 +14,7 @@
 
 
   <p align="center">
-    <p>Project Name: **Task_manager** </p>
+    <p>Project Name:Task_manager </p>
     <p>Purpose: This Task manager project is a management system that can be used by small businesses to assign tasks to staff. It can also allow staff to track tasks and mark them as       complete. The system will also allow management teams to look at the statistics and add new members to the system.</p>
     <p>I hope you enjoy following the management system through on python.</p>
     <br />
@@ -82,16 +82,18 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/alaird4/Task_manager
    ```
-3. Install python packages
+2. Install python packages
    ```sh
-   npm install
+   https://www.python.org/downloads/ 
    ```
-4. 
+3. pip install python 
+   ```
+   ```
+4. More information here: https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/ 
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
