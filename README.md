@@ -97,9 +97,6 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    pip install python
    ```
-   ```sh
- 4.  More information here: https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/ 
-   ```
    
    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
