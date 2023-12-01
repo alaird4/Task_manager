@@ -1,4 +1,3 @@
-project that show a system that can be logged into and assign tasks to members of staff. # Task_manager
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
@@ -15,7 +14,10 @@ project that show a system that can be logged into and assign tasks to members o
 
 
   <p align="center">
-    This Task manager project is a management system that can be used by small businesses to assign tasks to staff. It can also allow staff to track tasks and mark them as complete. The system will also allow management teams to look at the statistics and add new members to the system. I hope you enjoy following the management system through on python. 
+    Project Name: Task_manager
+    Purpose: This Task manager project is a management system that can be used by small businesses to assign tasks to staff. It can also allow staff to track tasks and mark them as       
+    complete. The system will also allow management teams to look at the statistics and add new members to the system. 
+    I hope you enjoy following the management system through on python. 
     <br />
     <a href="https://github.com/alaird4/Task_manager"><strong>Explore the docs »</strong></a>
     <br />
