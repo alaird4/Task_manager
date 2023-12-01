@@ -343,7 +343,7 @@ while True:
         print("You are successfully logged in, welcome to the progam!")
         break
     else:
-        print("username or password not recognised, please try again!")
+        print("username or password not recognised, please try again! Or ask the admin to add you to the system!")
 
 
 if __name__ == "__main__":
