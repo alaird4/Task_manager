@@ -69,7 +69,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Python][python.py]][https://www.python.org/]
+* [![Python][python.py]][![image](https://github.com/alaird4/Task_manager/assets/116030750/78a54049-42ed-4e5c-806f-4c9dd65b9879)
+]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
