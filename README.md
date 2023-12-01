@@ -69,7 +69,7 @@ project that show a system that can be logged into and assign tasks to members o
 
 ### Built With
 
-* [![Python][python.py]][![image](https://github.com/alaird4/Task_manager/assets/116030750/78a54049-42ed-4e5c-806f-4c9dd65b9879)
+Python <img width="580" alt="image" src="https://github.com/alaird4/Task_manager/assets/116030750/78a54049-42ed-4e5c-806f-4c9dd65b9879"
 ]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
