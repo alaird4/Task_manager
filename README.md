@@ -14,10 +14,9 @@
 
 
   <p align="center">
-    Project Name: Task_manager
-    Purpose: This Task manager project is a management system that can be used by small businesses to assign tasks to staff. It can also allow staff to track tasks and mark them as       
-    complete. The system will also allow management teams to look at the statistics and add new members to the system. 
-    I hope you enjoy following the management system through on python. 
+    <p>Project Name: Task_manager</p>
+    <p>Purpose: This Task manager project is a management system that can be used by small businesses to assign tasks to staff. It can also allow staff to track tasks and mark them as       complete. The system will also allow management teams to look at the statistics and add new members to the system.</p>
+    <p>I hope you enjoy following the management system through on python.</p>
     <br />
     <a href="https://github.com/alaird4/Task_manager"><strong>Explore the docs »</strong></a>
     <br />
