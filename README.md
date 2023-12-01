@@ -72,9 +72,13 @@ Python <img width="580" alt="image" src="https://github.com/alaird4/Task_manager
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Python
   ```sh
-  npm install npm@latest -g
+  pip install python
+  ```
+* Check python version
+  ```sh
+  python --version
   ```
 
 ### Installation
