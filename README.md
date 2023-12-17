@@ -215,7 +215,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Ashley Laird - [LinkedIn](https://uk.linkedin.com/in/ashley-laird-39415ab7) - ashley.laird93@yahoo.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: https://github.com/alaird4/Task_manager.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
